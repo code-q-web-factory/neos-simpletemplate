@@ -1,0 +1,3 @@
+prototype(CodeQ.SimpleTemplate:Template) {
+	@class = 'CodeQ\\SimpleTemplate\\FusionObjects\\TemplateImplementation'
+}
