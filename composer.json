@@ -4,7 +4,7 @@
     "description": "This simple template automatically resolves file paths according to the Neos best practises.",
     "license": "GPL-3.0+",
     "require": {
-        "neos/neos": "*"
+        "neos/neos": "^3.0"
     },
     "autoload": {
         "psr-4": {
