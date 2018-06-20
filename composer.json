@@ -2,7 +2,8 @@
     "name": "codeq/simpletemplate",
     "type": "neos-package",
     "description": "This simple template automatically resolves file paths according to the Neos best practises.",
-    "license": "GPL-3.0+",
+    "license": "MIT",
+    "keywords": ["flow", "neos", "fluid"],
     "require": {
         "neos/neos": "^3.0"
     },
